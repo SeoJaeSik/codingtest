@@ -68,7 +68,6 @@ public class BOJ_4963 {
 			}
 			
 		}
-		
 		sc.close();
 	}
 
