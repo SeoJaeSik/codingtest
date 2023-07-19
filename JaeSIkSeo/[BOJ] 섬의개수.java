@@ -24,7 +24,6 @@ public class BOJ_4963 {
 					DFS(nowX,nowY);
 				}
 			}
-			
 		}
 		
 	}
