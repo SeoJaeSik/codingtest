@@ -59,7 +59,6 @@ public class BOJ_4963 {
 				}
 			
 				System.out.println(count);
-				
 			}
 			else {
 				break;
