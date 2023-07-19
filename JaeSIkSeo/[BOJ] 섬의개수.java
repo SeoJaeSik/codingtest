@@ -24,9 +24,7 @@ public class BOJ_4963 {
 					DFS(nowX,nowY);
 				}
 			}
-			
 		}
-		
 	}
 
 	public static void main(String[] args) {
@@ -61,7 +59,6 @@ public class BOJ_4963 {
 				}
 			
 				System.out.println(count);
-				
 			}
 			else {
 				break;
